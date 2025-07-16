@@ -1,7 +1,0 @@
-Flask
-gunicorn
-Flask-SocketIO
-python-socketio
-SQLAlchemy
-Flask-SQLAlchemy 
-pytz
